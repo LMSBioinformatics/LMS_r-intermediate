@@ -1,6 +1,6 @@
 ---
 title: "Grouping, Summarising and Joining"
-author: "Matt Eldridge"
+author: "Matt Eldridge CRUK CI, Cambridge University"
 date: '`r format(Sys.time(), "Last modified: %d %b %Y")`'
 output: html_document
 ---
